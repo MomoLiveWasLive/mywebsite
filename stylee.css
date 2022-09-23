@@ -1,0 +1,52 @@
+.header {
+    background-color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    border-radius: 1cm;
+    box-shadow: 10px 10px;
+    height: 30px;
+    transition: 0.3s;
+  }
+.header:hover{
+    box-shadow: 10px 10px lightblue;
+
+}
+
+
+
+  body {
+    background-color: rgb(95, 95, 95);
+  }
+
+  p {
+    text-align: center;
+    position: relative;
+    top: -1.2cm;
+  }
+
+.div3 {
+    text-align: center;
+
+}
+
+
+  .btn{
+    border-style: solid ;
+    border-radius: 20px;
+    font-family: cursive;
+    font-weight: bold;
+    color: aqua;
+    border-width: 5px;
+    border-color: blue;
+    background-color: rgb(255, 255, 255);
+    height: 40px;
+    width: 120px;
+    cursor: pointer;
+    transition: 0.5s;
+
+}
+
+.btn:hover{
+    background-color: blue;
+
+}
